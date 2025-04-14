@@ -1,0 +1,4 @@
+touch firstfile.txt
+git add firstfile.txt
+git commit -m "1er repository"
+
